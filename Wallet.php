@@ -1,5 +1,5 @@
 
-class Portfolio {
+class Wallet {
     private $balance;
     private $username;
     private $password;
